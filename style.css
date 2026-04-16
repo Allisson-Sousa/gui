@@ -1,0 +1,51 @@
+body{
+    background-color:#011e27;
+}
+h1{
+    color:rgb(153, 174, 212);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: rgb(125, 143, 175);
+}
+.lista{
+    list-style-type: none;
+    text-align: center;
+    color: rgb(189, 227, 230);
+}
+.text{
+    text-align: center;
+    color: rgb(89, 110, 148);
+}
+.button{
+    background-color: rgb(73, 67, 78);
+    color: rgb(171, 216, 218);
+    padding:20px;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 395px;
+    font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.instagram{
+    background-color: rgb(100, 107, 126);
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(189, 227, 230);
+    text-decoration: none;
+}
+.click{
+    text-align: center;
+    color: rgb(189, 227, 230);
+    font-size: 40px;
+}

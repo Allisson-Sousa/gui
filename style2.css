@@ -1,0 +1,39 @@
+body{
+    background-color:#aaa7a7;
+}
+h1{
+    color:rgb(17, 6, 27);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
+.contato{
+    text-align: center;
+}
+a{
+    background-color: rgb(148, 123, 123);
+    padding:10px;
+    color:black;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.nao {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  transition: 0.5s;
+}
+
+.nao:hover {
+  top: 50px;
+  left: 400px;
+}
+
+.sim {
+  position: absolute;
+  top: 200px;
+  left: 400px;
+
+}
+ 
